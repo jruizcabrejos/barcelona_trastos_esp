@@ -1,3 +1,4 @@
-# Basura: Mapa de Barcelona - Días de Recojo de Muebles y Trastos
+# Mapa de Muebles y Trastos <br/>Días de Recogida para Barcelona<br/>
 Siempre es buena oportunidad para encontrar algo interesante.
 
+https://github.com/jruizcabrejos/barcelona_trastos
