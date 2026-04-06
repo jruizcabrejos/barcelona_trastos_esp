@@ -1,7 +1,5 @@
 # Mapa de Trastos y Muebles<br/>Días de Recogida en Barcelona, España<br/>
 
-Siempre es una buena oportunidad para encontrar algo interesante.
-
 Entrada completa del blog en: https://jruizcabrejos.com/post/accessible-frugality-barcelona-trash-collection-data-20250201/
 
 <img src="./image/webcomic_Emmy_the_Robot_by_Dominic_Cellini_resize_2.png" />
